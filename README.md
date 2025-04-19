@@ -13,7 +13,7 @@ If you want to practice this activity, just follow this link: (TODO: update)
 
 ## Full-Name-Of-Student
 
-**TODO - Please put your name in this README**
+**TODO - André Luiz de Souza Ferreira**
 
 ## Problem Description
 
